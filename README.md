@@ -28,7 +28,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VonderVuflya&count_private=true&show_icons=true&theme=radical&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=VonderVuflya&count_private=true&show_icons=true&theme=radical" />
-        <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=VonderVuflya&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="VonderVuflya's stats" />
+        <img align="left" height=165 src="https://github-readme-stats.vercel.app/api?username=VonderVuflya&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="VonderVuflya's stats" />
       </picture>
     </a>
     <!-- wakatime stats -->
@@ -36,7 +36,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-        <img align="right" width=480 src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" alt="VonderVuflya's wakatime stats" />
+        <img align="right" width=450 src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" alt="VonderVuflya's wakatime stats" />
       </picture>
     </a>
   </div>
