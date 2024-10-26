@@ -36,7 +36,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-        <img align="right" width=450 src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" alt="VonderVuflya's wakatime stats" />
+        <img align="right" width=430 src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" alt="VonderVuflya's wakatime stats" />
       </picture>
     </a>
   </div>
