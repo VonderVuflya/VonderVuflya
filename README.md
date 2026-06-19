@@ -21,28 +21,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center">
-  <!-- first row -->
-  <div align="center">
-    <!-- github stats top langs -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VonderVuflya&count_private=true&show_icons=true&theme=radical&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=VonderVuflya&count_private=true&show_icons=true&theme=radical" />
-        <img align="left" height=165 src="https://github-readme-stats.vercel.app/api?username=VonderVuflya&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="VonderVuflya's stats" />
-      </picture>
-    </a>
-    <!-- wakatime stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-        <img align="right" width=410 src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" alt="VonderVuflya's wakatime stats" />
-      </picture>
-    </a>
-  </div>
-
-  <br/><br/><br/><br/><br/><br/><br/><br/>
-  
   <!-- second row -->
   <div align="center">
     <!-- github stats top langs -->
