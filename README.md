@@ -8,9 +8,7 @@
 </p>
 
 <p>
-  <a href="https://intothewildweb.ru/">🌐 blog</a> &nbsp;·&nbsp;
-  <a href="https://vuflya.com">vuflya.com</a> &nbsp;·&nbsp;
-  <a href="mailto:hi@vuflya.com">✉️ hi@vuflya.com</a>
+  <a href="https://intothewildweb.ru/">🌐 intothewildweb.ru</a>
 </p>
 
 ---
@@ -59,4 +57,4 @@ Frontend by trade (React / TypeScript), but happy to drop into Python, ship a CL
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonderVuflya&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">📫 <a href="mailto:hi@vuflya.com">hi@vuflya.com</a></p>
+<p align="center">🌐 <a href="https://intothewildweb.ru/">intothewildweb.ru</a></p>
