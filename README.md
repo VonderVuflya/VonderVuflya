@@ -3,8 +3,8 @@
 <h1>Hi, I'm Sergey 👋</h1>
 
 <p>
-  <b>Frontend maker</b> from Saint-Petersburg, Russia 🇷🇺 — Senior React Developer by day,<br/>
-  builder of <b>local-first developer tools</b> and side products by night.
+  <b>Frontend maker</b> from Saint-Petersburg, Russia 🇷🇺 — Senior React Developer.<br/>
+  I build <b>local-first developer tools</b> and ship my own products.
 </p>
 
 <p>
